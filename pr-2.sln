@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr-2", "pr-2\pr-2.csproj", "{98D1E587-2618-48A5-B924-3C79815BCC9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smtp", "smtp\smtp.csproj", "{98D1E587-2618-48A5-B924-3C79815BCC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pop3", "pop3\pop3.csproj", "{C81BBF3A-6730-4CC3-B983-D2435ED9E9C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "util", "util\util.csproj", "{765C8CA2-0383-4CC9-B965-51734460FB2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{98D1E587-2618-48A5-B924-3C79815BCC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98D1E587-2618-48A5-B924-3C79815BCC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98D1E587-2618-48A5-B924-3C79815BCC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81BBF3A-6730-4CC3-B983-D2435ED9E9C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81BBF3A-6730-4CC3-B983-D2435ED9E9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81BBF3A-6730-4CC3-B983-D2435ED9E9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81BBF3A-6730-4CC3-B983-D2435ED9E9C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765C8CA2-0383-4CC9-B965-51734460FB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765C8CA2-0383-4CC9-B965-51734460FB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765C8CA2-0383-4CC9-B965-51734460FB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765C8CA2-0383-4CC9-B965-51734460FB2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
